@@ -1,4 +1,4 @@
-                                               CHAT WUTH PDF
+                                               CHAT WITH PDF
 
 Chat with PDF is an AI-based application that allows users to interact with PDF documents in a conversational way. Instead of manually searching through lengthy files, users can simply upload a PDF and ask questions to instantly extract relevant information. This project leverages Natural Language Processing (NLP) and Large Language Models (LLMs) to provide accurate, context-aware answers from the document.
 
