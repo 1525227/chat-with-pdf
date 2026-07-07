@@ -16,7 +16,7 @@ Chat with PDF is an AI-based application that allows users to interact with PDF 
 2: Libraries/Frameworks: Streamlit, LangChain, PyPDF, FAISS
 3: AI Model: OpenAI / LLM-based embeddings
 4: Frontend: Streamlit UI
-
+5: Database: Pincone DB
 
 
 ⚙️ How It Works:
